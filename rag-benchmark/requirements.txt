@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+datasets
+ragas
+python-dotenv
+langchain_huggingface
